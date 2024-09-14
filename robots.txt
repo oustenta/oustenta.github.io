@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oustenta.github.io/sitemap.html.gz
+Sitemap: https://oustenta.github.io/app/sitemap.html.gz
+Sitemap: https://oustenta.github.io/assets/sitemap.html.gz
+Sitemap: https://oustenta.github.io/css/sitemap.html.gz
+Sitemap: https://oustenta.github.io/includes/sitemap.html.gz
+Sitemap: https://oustenta.github.io/item/sitemap.html.gz
+Sitemap: https://oustenta.github.io/src/sitemap.html.gz
